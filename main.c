@@ -2,9 +2,7 @@
 
 int main(void) {
     int i;
-    double result;
     
-    printf("整数を入力してください:");
     scanf("%d",&i);
     
     result = i * 1.08;
