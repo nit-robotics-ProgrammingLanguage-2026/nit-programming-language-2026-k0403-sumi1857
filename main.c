@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 int main(void) {
-    int x;
+    int i;
     double result;
     
     printf("整数を入力してください:");
-    scanf("%d",&x);
+    scanf("%d",&i);
     
     result = x * 1.08;
     
